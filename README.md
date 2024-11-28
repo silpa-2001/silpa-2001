@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 <br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silpa-2001&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=silpa-2001&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=silpa-2001&theme=nightowl&hide_border=true)
-  <img src="https://visitcount.itsvg.in/api?id=Sudha&label=Profile%20Views&color=1&icon=9&pretty=true" />
+
