@@ -24,3 +24,9 @@ Here are some ideas to get you started:
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="C#"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS code" title="C#"/></code><br>
+
+<br>![Sudha-Chandrika-Anil's Stats](https://github-readme-stats.vercel.app/api?username=Sudha-Chandrika-Anil&theme=merko&show_icons=true&hide_border=false&count_private=true)<br>
+  ![Sudha-Chandrika-Anil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudha-Chandrika-Anil&theme=merko&show_icons=true&hide_border=false&layout=compact)
+  ![Sudha-Chandrika-Anil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sudha-Chandrika-Anil&theme=merko&hide_border=false)
+
+  <img src="https://visitcount.itsvg.in/api?id=Sudha&label=Profile%20Views&color=1&icon=9&pretty=true" />
